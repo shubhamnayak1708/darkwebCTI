@@ -1,4 +1,4 @@
-# 🕵️ DarkwebCTI
+# DarkwebCTI
 
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub stars](https://img.shields.io/github/stars/shubhamnayak1708/darkwebCTI.svg)](https://github.com/shubhamnayak1708/darkwebCTI/stargazers)
@@ -7,7 +7,7 @@
 
 **A comprehensive collection of Cyber Threat Intelligence sources and methodologies focusing on the Deep & Dark Web ecosystem.**
 
----
+<!-- Project image --> <img src="j5UZ3hJm_400x400.jpg" width="220" alt="darkwebCTI logo">
 
 ## 🎯 **Mission Statement**
 
@@ -42,21 +42,6 @@ Cyber Threat Intelligence (CTI) is the collection, processing, and analysis of i
 - **[Telegram Monitoring](tools/telegram-scraping/)**: Automated channel monitoring scripts
 - **[Dark Web Crawling](tools/darkweb-monitoring/)**: Tor-based intelligence collection
 - **[Data Enrichment](tools/data-enrichment/)**: CTI processing and analysis tools
-
-## 🚀 **Quick Start**
-
-### For Threat Analysts
-```bash
-# Clone the repository
-git clone https://github.com/shubhamnayak1708/darkwebCTI.git
-cd darkwebCTI
-
-# Explore marketplace intelligence
-cat intelligence/marketplaces/darkweb-marketplaces.csv
-
-# Review Telegram threat channels
-head -20 intelligence/telegram/stealer-channels.md
-```
 
 ### For Researchers
 1. Start with [methodology docs](docs/methodology/) for investigation techniques
@@ -106,7 +91,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct]
 
 If you find this project valuable, consider supporting its development:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shubhamnayak)
+<a href="https://www.buymeacoffee.com/shubhamnayak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 Your support helps maintain and expand this intelligence collection.
 
@@ -120,6 +105,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ---
 
-**⚡ Built by [Shubham Nayak](https://linkedin.com/in/shubham-nayak-591375276) | TechOwl InfoSec**
+**⚡ Built by [Shubham Nayak](https://linkedin.com/in/shubham-nayak-591375276)**
 
 *"Knowledge is power, but knowledge shared is power multiplied."*
