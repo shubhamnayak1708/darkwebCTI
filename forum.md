@@ -1,16 +1,17 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
-|[0x00sec](https://0x00sec.org/)|OFFLINE|
-|[4CHEAT](https://4cheat.ru/)|ONLINE||
-|[589forum](https://589forum.org/)|ONLINE|
+|[0x00sec](https://0x00sec.org/)| ONLINE|
+|[4CHEAT](https://4cheat.ru/)| ONLINE||
+|[589forum](https://589forum.org/)| OFFLINE|
 |[AGAINSTTHEWEST](http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion) | OFFLINE | |
-|[ALLIGATOR](https://alligator.cash/)|ONLINE||
+|[ALLIGATOR](https://alligator.cash/)| OFFLINE||
 |[ALTENEN (Deep)](https://altenens.is)| ONLINE | |
-|[Antichat](https://forum.antichat.com) | ONLINE | |
-|[ANTIMIGALKI](https://antimigalki.space)| ONLINE | |
-|[ARBITRAJ](https://arbitraj-forum.ru)| ONLINE | |
+|[ALPHV Forum](https://alphv.pro) | ONLINE | |
+|[Antichat](https://forum.antichat.com) | OFFLINE | |
+|[ANTIMIGALKI](https://antimigalki.space)| OFFLINE | |
+|[ARBITRAJ](https://arbitraj-forum.ru)| OFFLINE | |
 |[ASCARDING](https://ascarding.com)| ONLINE | |
-|[ASTROPID](https://astropid.net)| ONLINE ||
+|[ASTROPID](https://astropid.net)| OFFLINE ||
 |[BDF CLUB](https://bdfclub.com)| ONLINE | |
 |[BEST CARDING WORLD](http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion) | ONLINE | |
 |[BHC Forums](https://bhcforums.cc) | ONLINE | |
@@ -22,12 +23,12 @@
 |[BHF](https://bhf.im)| ONLINE | |
 |[BITCOINFO.RU](http://bitcoinfor.ru)|ONLINE||
 |[BITS.MEDIA](https://forum.bits.media)|ONLINE||
-|[BLACKBIZ](https://blackbiz.top)|ONLINE||
+|[BLACKBIZ](https://blackbiz.top)|OFFLINE||
 |[BLACKBONES](https://blackbones.net)|ONLINE||
-|[BLACKFORUMS](https://blackforums.me)| ONLINE | |
-|[BLACKFORUMS](https://blackforums.net)| ONLINE | |
-|[BLACKFORUMS](https://blackforums.ru)| ONLINE | |
-|[BLACKHACKER](https://blackhacker.pw)|ONLINE||
+|[BLACKFORUMS](https://blackforums.me)| OFFLINE | |
+|[BLACKFORUMS](https://blackforums.net)| OFFLINE | |
+|[BLACKFORUMS](https://blackforums.ru)| OFFLINE | |
+|[BLACKHACKER](https://blackhacker.pw)|OFFLINE||
 |[blackhatpakistan](https://blackhatpakistan.net)| ONLINE | |
 |[blackhatprotools](https://www.blackhatprotools.info/)| ONLINE | |
 |[BLACKHATWORLD](https://blackhatworld.com)| ONLINE | |
@@ -112,6 +113,7 @@
 |[DUMPED](https://dumped.to)| ONLINE| |
 |[DUMPFORUMS (Dark)](http://cwtvplqgymm3kbzj7g2qijhpau4tcco52qwvkm66k357svomp5bw5eqd.onion/)| ONLINE | |
 |[DUMPFORUMS (Deep)](https://dumpforums.to/)| ONLINE | |
+|[Duty Free Forum (Deep)](https://forum.duty-free.cc/)| ONLINE | |
 |[DWF (Tor v2)](http://dwforumsmrcqdnt3.onion)| OFFLINE | |
 |[DWF (Tor v3)](http://dwforumuugiyderhybcpfxmlmoawgq6z3w6hk45nrnem3p7kwszhybad.onion)| ONLINE | |
 |[ELEAKS](https://eleaks.to)| ONLINE | |
@@ -124,6 +126,7 @@
 |[EXODUS](https://forum.exodusmarket.io)| ONLINE | |
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |
 |[EXPLOIT.IN (Deep)](https://exploit.in)| ONLINE | |
+|[EXPLOIT.IN (Deep)](https://exploit.biz)| ONLINE | |
 |[EXPLOIT FORUMS](https://exploitforums.net)| ONLINE | |
 |[EXPLOITS.WS](https://exploits.ws)| ONLINE | |
 |[ezcarder](https://ezcarder.is/)| ONLINE | |
@@ -176,7 +179,8 @@
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
 |[NEFARIUM](http://zcfl6nxpefzmythaqbqi7s3fgjsb4tobp7stonwaqrhtza7yn3ztijid.onion)| ONLINE | |
 |[NEXTGEN FORUMS](https://NextGenForums.cc)| ONLINE | |
-|[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |
+|[NIFLHEIM.TOP](https://niflheim.top)| OFFLINE | |
+|[NIFLHEIM.World](https://niflheim.world)| ONLINE | |
 |[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.me)| ONLINE | |
 |[NIGGAFORUMS (BLACKFORUMS MIRROR)](https://niggaforums.net)| ONLINE | |
 |[NITTER](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)| OFFLINE | |
@@ -268,7 +272,11 @@
 |[XSS (Deep)](https://xss.pro)| ONLINE | |
 |[YOUHACK](https://youhack.xyz)| ONLINE | |
 |[ZDL](https://zdl.pw)| ONLINE | |
-|[KittyForums](https://kittyforums.to/)| ONLINE | |
+|[KittyForums](https://kittyforums.st/)| ONLINE | |
 |[ReHubCom (Dark)](https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion)| ONLINE | |
 |[ReHubCom (Deep)](https://rehubcom.pro)| ONLINE | |
 |[BITTEN FORUMS](http://bittenlxkoanw3uqq6b7cszxdws76waznboekwrjbq4t4i2ybhenluqd.onion)| ONLINE | |
+|[EXILIO404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion)| ONLINE | |
+|[XSSF](https://xssf.net/)|ONLINE||
+|[DAMAGELIB](damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion)|ONLINE||
+|[BFD Forum](http://bfdxjkv5e2z3ilrifzbnvxxvhbzsj67akjpj3zc6smzr4vv6oz565gyd.onion)|ONLINE||

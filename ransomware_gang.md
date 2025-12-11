@@ -9,6 +9,7 @@
 |[RANSOMWARE GROUP SITES (list)](http://ranswikiif2mir7mnnscyrsvppxmwwqrvc43fhtddvtnmhedkj4hopyd.onion)|ONLINE|||
 |[RANSOMWARE GROUPS MONITORING TOOL](https://www.ransomlook.io/)|ONLINE|||
 |[RANSOMWARE GROUPS MONITORING TOOL](https://www.ransomware.live/)|ONLINE|||
+|[RANSOMNEWS](https://ransomnews.online)|ONLINE|||
 |[0X Thief](https://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||
 |[54bb47h (Victims page)](http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion)|OFFLINE||||
 |[54bb47h](http://54bb47h.blog)|OFFLINE||||
@@ -63,6 +64,8 @@
 |[BABYDUCK (Victims request ID page)](http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion)|OFFLINE||||
 |[BASHE](http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion)|ONLINE||||
 |[BEAST](http://beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion)|ONLINE||||
+|[BENZONA](http://benzona6x5ggng3hx52h4mak5sgx5vukrdlrrd3of54g2uppqog2joyd.onion)|ONLINE||7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0||
+|[BENZONA (File Server)](http://cpjhb63lxycwbyus2n35ddyhdzxhf756l4rtwdttojzhzgppt3vpmsqd.onion)|ONLINE||7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0||
 |[BERT](http://bertblogsoqmm4ow7nqyh5ik7etsmefdbf25stauecytvwy7tkgizhad.onion)|ONLINE||||
 |[BIANLIAN](http://bianliaoxoeriowgqohcly4a6sbkpc3se2yvxgidxomxlpuhx5ehrpad.onion)|ONLINE||A8AD0FD4C931CDAA1408D5A60CBF38CEDF46B41E19A8A55E4EF1F1848AF3416AE52D278D37DF||
 |[BIANLIAN](http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion)|ONLINE||A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC||
@@ -124,6 +127,7 @@
 |[CRAZY HUNTER TEAM](http://7i6sfmfvmqfaabjksckwrttu3nsbopl3xev2vbxbkghsivs5lqp4yeqd.onion)|ONLINE||||
 |[CRIMSON WALRUS](http://ncpbxzcgdeprrbba7dgodmymdewy57yokkebuwhmuywiuz5kqjwepbad.onion)|OFFLINE||||
 |[CROSSLOCK](http://crosslock5cwfljbw4v37zuzq4talxxhyavjm2lufmjwgbpfjdsh56yd.onion)|OFFLINE||||
+|[CRY0](http://cryoblogedawivdcknyd4jsjxkrx3xrqqltxla6wwjjnzm3f3jaxjzqd.onion)|ONLINE||54E9450799AFBBA90992E3C40F552C8C05D5765144396C6A1A622FD9DABD01101F9DC0CF90F4||
 |[CRYLOCK (Victims request ID Page)](http://d57uremugxjrafyg.onion)|OFFLINE||||
 |[CRYPTBB](http://crypuglupv3bsqnbt5ruu5lgwrwoaojscwhuoccbmbzmcidft5kiccqd.onion)|ONLINE||||
 |[CRYPTNET](http://blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion)|ONLINE||||
@@ -152,9 +156,10 @@
 |[DARK VAULT (blog)](http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion)|ONLINE||||
 |[DATA CARRY](http://dcarryhaih5oldidg3tbqwnde4lxljytnpvberrwgj2vlvunopd46dad.onion)|ONLINE||||
 |[DESOLATOR](http://po4tq2brx4rgwbdx4mac24fz34uuuf7oigosebp32n2462m2vxl6biqd.onion/wall_of_shame)|ONLINE||||
-|[DEVMAN](http://qljmlmp4psnn3wqskkf3alqquatymo6hntficb4rhq5n76kuogcv7zyd.onion)|ONLINE||||
-|[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|ONLINE||||
-|[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|ONLINE||||
+|[DEVMAN](http://qljmlmp4psnn3wqskkf3alqquatymo6hntficb4rhq5n76kuogcv7zyd.onion)|OFFLINE||||
+|[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|OFFLINE||||
+|[DEVMAN 2.0](http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion)|OFFLINE||||
+|[DevMan](http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion/)|ONLINE||||
 |[DIRE WOLF](http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion)|ONLINE||B344BECDC01A1282F69CB82979F40439E15E1FD1EF1FE9748EE467F5869E2148E6F1E55959E2||
 |[DISPOSSESSOR (Dark)](http://e27z5kd2rjsern2gpgukhcioysqlfquxgf7rxpvcwepxl4lfc736piyd.onion/)|ONLINE||||
 |[DISPOSSESSOR (Deep)](https://radar.ltd/)|ONLINE||||
@@ -184,6 +189,7 @@
 |[FREE CIVILIAN (Attacks Ukrainian Government Agencies)](http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion)|OFFLINE||78DB22E30C48561EF8B63AFF7702B237A4797017EBC3630853CF6F11F8706A3A84AB112760AF||
 |[FSOCIETY](http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion)|ONLINE||||
 |[FS-TEAM](http://hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid.onion)|ONLINE||||
+|[FULCRUMSEC](http://gsgot6tua7ffammwdv6vpxkog32b4z7qivtqkxz55afq2hkt2o24w5yd.onion)|ONLINE||6A5E9ED3D7D26CAD5E6CA4E229CC80DA3C13AD002F73D4450078284E6C762F6DBDCF1FE9BF44 - threatspians@fulcrumsec.net - fulcrumsec@tuta.io - https://t.me/fulcrumsec||
 |[FUNKSEC](http://pke2vht5jdeninupk7i2thcfvxegsue6oraswpka35breuj7xxz2erid.onion)|OFFLINE||||
 |[FUNKSEC](http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/)|OFFLINE||||
 |[FUNKSEC](http://ykqjcrptcai76ru5u7jhvspkeizfsvpgovton4jmreawj4zdwe4qnlid.onion)|OFFLINE||||
@@ -192,6 +198,7 @@
 |[FUNKSEC](http://funksecsekgasgjqlzzkmcnutrrrafavpszijoilbd6z3dkbzvqu43id.onion)|ONLINE||||
 |[FUNKSEC](http://funksec53xh7j5t6ysgwnaidj5vkh3aqajanplix533kwxdz3qrwugid.onion)|OFFLINE||||
 |[GD LOCKERSEC](http://igziys7pres4644kbrtakxfbrwkyld64nxk5prpkgtcexwrrjgtfjzyd.onion)|ONLINE||||
+|[GENESIS](http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion)|ONLINE||||
 |[GLOBAL](http://vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion)|ONLINE||0532b290d16a48f8f81dc1a41c0840145aede477af674c56e6599507aa7f27933c||
 |[GOODWILL (Dashboard)](http://9855-13-235-50-147.ngrok.io)|OFFLINE||||
 |[GRIEF](http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion)|OFFLINE||||
@@ -242,6 +249,7 @@
 |[KARAKURT (Dark)](https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion)|ONLINE||||
 |[KARMA](http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion)|OFFLINE||||
 |[KAWA](http://kawasa2qo7345dt7ogxmx7qmn6z2hnwaoi3h5aeosupozkddqwp6lqqd.onion)|ONLINE||6A340207246B47E37F6D094D2236E5C6242B6E4461EEF8021FED2C9855240C3E11AEE886FAAF - kawa4096@onionmail.org||
+|[KAZU](http://6czlbd2jfiy6765fbnbnzuwuqocg57ebvp3tbm35kib425k4qnmiiiqd.onion)|ONLINE||Session: 054acad09eb2c78674f3371bc9fd24218bacff3326c3d259819bf6e78de3ac0e6a - @kazu_21 | @kazu_breach (Channel) - Signal: Signal : @kazu.517 - Exploit: forum.exploit.in/profile/203546-kazu/ - DF: darkforums.st/User-Kazu||
 |[KELVIN SECURITY](https://vipsuscription.org)|ONLINE||https://t.me/kelvinsecteam||
 |[KILLSEC](http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion)|ONLINE||https://t.me/k1llsec||
 |[Kill Security 3.0](http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/)|ONLINE||||
@@ -301,6 +309,7 @@
 |[LOCKBIT 4.0 Control Panel](http://lockbitapp24bvbi43n3qmtfcasf2veaeagjxatgbwtxnsh5w32mljad.onion)|ONLINE|ADTISZRLVUMXDJ34RCBZFNO6BNKLEYKYS5FZPNNXK4S2RSHOENUA|||
 |[LOCKBIT 4.0 Control Panel](http://lockbitapo3wkqddx2ka7t45hejurybzzjpos4cpeliudgv35kkizrid.onion)|ONLINE|ADTISZRLVUMXDJ34RCBZFNO6BNKLEYKYS5FZPNNXK4S2RSHOENUA|||
 |[LOCKBIT 4.0 Control Panel](http://lockbitapiahy43zttdhslabjvx4q6k24xx7r33qtcvwqehmnnqxy3yd.onion)|ONLINE|ADTISZRLVUMXDJ34RCBZFNO6BNKLEYKYS5FZPNNXK4S2RSHOENUA|||
+|[LOCKBIT 5.0](https://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion)|ONLINE||||
 |[LOCKBIT](http://lockbitkodidilol.onion)|OFFLINE||||
 |[LOCKFILE (Victims request ID page)](http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion)|OFFLINE||B2F873769EB6B508EBC2103DDEB7366CEFB7B09AB8314DAD0C4346169072686690489B47EAEB||
 |[LORENZ](http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion)|ONLINE||||
@@ -377,8 +386,9 @@
 |[NOVA](http://novav75eqkjoxct7xuhhwnjw5uaaxvznhtbykq6zal5x7tfevxzjyqyd.onion)|OFFLINE||||
 |[NOVA](http://novavagygnhqyf7a5tgbuvmujve5a2jzgbrq2n4dvetkhvr2zjg27cad.onion)|OFFLINE||||
 |[NOVA](http://novaxtychr6ohlc4zr5its73p6i7unpuhpwoodtzrg2y4w4seytatlid.onion)|ONLINE||||
+|[NOVA](http://novadmrkp4vbk2padk5t6pbxolndceuc7hrcq4mjaoyed6nxsqiuzyyd.onion)|ONLINE||||
 |[NULLBULGE](https://nullbulge.co/blog.html)|ONLINE||||
-|[OBSCURA](http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion)|ONLINE||||
+|[OBSCURA](http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion)|ONLINE||AE55FC0EB1C25A5B081650108F9081E236DECE1CE08D2E185A6F15B9FB48E700210BED374643||
 |[ONEPERCENT](http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion)|OFFLINE||||
 |[ORCA](http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion)|ONLINE||||
 |[OX THIEF](http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion)|ONLINE||||
@@ -469,7 +479,8 @@
 |[SATAN LOCK](http://5g2e.l.time4vps.cloud)|ONLINE||CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D||
 |[SATAN LOCK](http://mgeegnexyhhn5dpqewihjy33qyhng3gy66h3fogiwefl5hljhtmfznad.onion)|ONLINE||CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D||
 |[SATAN LOCK V2](http://tzhwmgguyxrg6q3tu4q3gvopcjynrhw6ryx2bdl5ghisdkyunfua5xyd.onion)|ONLINE||CF7175635116009D235F2BC2C657CB4DF1B18317D4EADD30F8238C33E2D2116851C9344C774D||
-|[SCATTERED SPIDER](http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion)|ONLINE||||
+|[SCATTERED SPIDER](http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion)|OFFLINE (Seized)||shinygroup@onionmail.com||
+|[SCATTERED SPIDER](https://shinyhunte.rs)|ONLINE||shinygroup@onionmail.com||
 |[SECUROTROP](http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion)|ONLINE||||
 |[SEKHMET](http://sekhmet.top)|OFFLINE||||
 |[SENSAYQ (deep](http://159.69.60.54)|ONLINE||||
@@ -511,9 +522,12 @@
 |[TEAM UNDERGROUND (Victims page)](http://undgrddapc4reaunnrdrmnagvdelqfvmgycuvilgwb5uxm25sxawaoqd[.]onion/auth/login)|ONLINE||https://t.me/UndergroundDataLeaks||
 |[TEAM UNDERGROUND](http://47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion)|ONLINE||||
 |[TEAM XXX](http://tp5cwh6d2b5hekcg6jlhoe6mawa7dlwiv47epvnfmzuaaur2dnaa3uid.onion)|ONLINE||||
+|[TENGU](http://longcc4fqrfcqt5lzceutylaxir6h66fp6df3oin6mvwvz6pfdbxc6qd.onion)|ONLINE||||
+|[TENGU](http://fuvodyoktsjdwu3mrbbrmdsmtblkxau6l7r5dygfwgzhf36mabjtcjad.onion)|ONLINE||||
 |[TERMITE](http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion)|ONLINE||||
 |[THE GENTLEMEN](http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion)|ONLINE||F8E24C7F5B12CD69C44C73F438F65E9BF560ADF35EBBDF92CF9A9B84079F8F04060FF98D098E||
-|[ThreatLabz ](http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion)|ONLINE||||
+|[ThreatLabz](http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion)|ONLINE||||
+|[TRIDENT](http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/articles)|ONLINE||||
 |[TRIGONA](http://6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion)|OFFLINE||||
 |[TRIGONA (Access Portal)](http://znuzuy4hkjacew5y2q7mo63hufhzzjtsr2bkjetxqjibk4ctfl7jghyd.onion/signin)|ONLINE||||
 |[TRIGONA](http://trigonax2zb3fw34rbaap4cqep76zofxs53zakrdgcxzq6xzt24l5lqd.onion)|OFFLINE||||
