@@ -7,7 +7,7 @@
 
 **A comprehensive collection of Cyber Threat Intelligence sources and methodologies focusing on the Deep & Dark Web ecosystem.**
 
-<img src="https://x.com/cr_hustle4576/photo" alt="DarkwebCTI Logo" width="150">
+<img src="https://pbs.twimg.com/profile_images/1913197026105589760/j5UZ3hJm_400x400.jpg" alt="DarkwebCTI Logo" width="150">
 
 ## 🎯 **Mission Statement**
 
